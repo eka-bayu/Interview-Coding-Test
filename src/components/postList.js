@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchPosts, setSelectedPost } from "../redux/postSlice";
+import { fetchPosts } from "../redux/postSlice";
 import { Link } from "react-router-dom";
 import {
   Container,
