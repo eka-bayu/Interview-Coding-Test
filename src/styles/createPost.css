@@ -1,0 +1,22 @@
+.create-post-card {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.create-post-card h5 {
+  margin-bottom: 16px;
+}
+
+.create-post-card input,
+.create-post-card textarea {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.create-post-card button {
+  margin-top: 16px;
+}
